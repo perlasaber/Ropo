@@ -1,0 +1,94 @@
+{
+    "name": "Robo Brains ",
+    "email": "Robo Brains@mhmz.dev",
+    "subtitles": [
+        "Saber Developer",
+        "Technical Writer",
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/RoboBrains"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/RoboBrains"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/RoboBrains"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/RoboBrains"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/RoboBrains"
+        },
+        {
+            "platform": "medium",
+            "url": "https://mRobo Brainsdev.medium.com/"
+        }
+    ],
+    "aboutMeHeadline": "I'm Robo Brains Mohamed, a Flutter developer, Technical Writer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "technologies": [
+        "Vision & Objectives",
+        "Policy & Regulations",
+        "Governance",
+        "Programs",
+        "TechnologArchitecture",
+        "Programs"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/blog.png",
+            "name": "Technical Blog Writing",
+            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "01093003428"
+    },
+    "projects": [
+
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Giza, Egypt"
+        },
+        {
+            "param": "phone",
+            "value": "01093003428"
+        },
+        {
+            "param": "email",
+            "value": "Robo Brains.6.Mohamed@gmail.com"
+        }
+    ]
+}
